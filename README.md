@@ -7,7 +7,10 @@ x1 \tab y1
 x1 \tab y1
 x1 \tab y1
 x1 \tab y1
-.....
+..
+..
+..
+..
 and so on.
 
 The task is to build a model that has a very good (as less as possible) mean squared error.
